@@ -1,4 +1,4 @@
- Cloud Infrastructure Setup README
+ Secure Cloud Infrastructure Setup with VPC Peering README
 
 ## Overview
 This README provides a guide to setting up a secure and scalable cloud environment for deploying applications and resources. The infrastructure includes hosting public-facing web servers, a private database, and an application server with internet access. Additionally, it enables access to a private database hosted in another region via VPC peering.
